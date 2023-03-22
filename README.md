@@ -150,4 +150,5 @@ Em relação ao estilo, está sendo utilizada a biblioteca [TailwindCSS](https:/
 
 Devido ao tempo de entrega do projeto, a função de editar um item da lista não foi implementada ainda. Contudo, se você fizer uma requisição para a rota com os dados necessários essa atualização já está sendo feita.
 
-##
+## 
+*Copyright (c) 2023 [Jaiane Oliveira](https://github.com/JaianeOliveira) - v1.0.0, 22-03-2023*
